@@ -26,7 +26,7 @@
             this.cmds = {};
             this.dirCmds = {};
             this.curDir = null;
-            this.title = 'Blooket | By Sunshine';
+            this.title = 'Example Name';
             this.search = null;
             this.log = [];
             this.logBox = null;
